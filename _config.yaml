@@ -6,16 +6,16 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: 
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: bvoight@pennmedicine.upenn.edu
+  google-scholar: FexB61cAAAAJ
+  github: bvoightlab
+  twitter: bvoight28
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 
