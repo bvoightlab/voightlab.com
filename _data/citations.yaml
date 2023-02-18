@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1371/journal.pbio.0040072
+  title: A Map of Recent Positive Selection in the Human Genome
+  authors:
+  - Benjamin F Voight
+  - Sridhar Kudaravalli
+  - Xiaoquan Wen
+  - Jonathan K Pritchard
+  publisher: PLoS Biology
+  date: ''
+  link: https://doi.org/dtg393
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
+  tags:
+  - PopGen
+  repo:
+  - bvoight/iHS_calc
+  extra-links:
+  - type: source
+    link: https://pubmed.ncbi.nlm.nih.gov/16494531/
+  _cache: eac278e43e9524f8a01a98cce43d1cb5308d5e683f50d6b4c5128c03886b58fe
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
