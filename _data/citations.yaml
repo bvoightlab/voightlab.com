@@ -9,17 +9,16 @@
   - Xiaoquan Wen
   - Jonathan K Pritchard
   publisher: PLoS Biology
-  date: ''
+  date: '2006-03-07'
   link: https://doi.org/dtg393
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
+  repo: https://github.com/bvoight/iHS_calc
+  extra-links:
+  - type: PubMed
+    link: https://pubmed.ncbi.nlm.nih.gov/16494531/
   tags:
   - PopGen
-  repo:
-  - bvoight/iHS_calc
-  extra-links:
-  - type: source
-    link: https://pubmed.ncbi.nlm.nih.gov/16494531/
-  _cache: eac278e43e9524f8a01a98cce43d1cb5308d5e683f50d6b4c5128c03886b58fe
+  _cache: 413abfb17af98fa231bf65e6be33a0c27479d3b376666b5b4c6066cb2031abf0
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
