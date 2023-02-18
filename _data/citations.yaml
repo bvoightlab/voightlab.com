@@ -14,11 +14,12 @@
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
   repo: https://github.com/bvoight/iHS_calc
   extra-links:
-  - type: PubMed
+  - type: source
     link: https://pubmed.ncbi.nlm.nih.gov/16494531/
+    text: PubMed
   tags:
   - PopGen
-  _cache: 413abfb17af98fa231bf65e6be33a0c27479d3b376666b5b4c6066cb2031abf0
+  _cache: c7ede0bf3490e83b67fbde322b701abd99d2a2fe5a7d0f9bb28e2c60e8cefcb6
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
