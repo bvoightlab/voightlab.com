@@ -4,8 +4,9 @@
   date: 2006-3-7
   repo: https://github.com/bvoight/iHS_calc
   extra-links:
-    - type: PubMed
+    - type: source
       link: https://pubmed.ncbi.nlm.nih.gov/16494531/
+      text: PubMed
   tags:
     - PopGen
 
