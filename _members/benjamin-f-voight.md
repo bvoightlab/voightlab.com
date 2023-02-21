@@ -11,7 +11,7 @@ links:
   orcid: 0000-0002-6205-9994
   email: bvoight28@gmail.com
   twitter: bvoight28
-  docs: cv/CV_BFV_current.pdf
+  cv: cv/CV_BFV_current.pdf
  
 ---
 
