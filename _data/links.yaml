@@ -42,6 +42,12 @@ search:
   tooltip: Search
   link: $LINK
 
+cv:
+  icon: fas fa-book
+  text: CV
+  tooltip: Curriculum Vitae
+  link: $LINK
+  
 # social media
 
 orcid:
