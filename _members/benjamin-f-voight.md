@@ -5,7 +5,8 @@ description: Associate Professor
 role: pi
 aliases:
   - Ben Voight
-  - Benjamin Voight
+  - Ben F Voight
+  - Benjamin F Voight
   - BF Voight
 links:
   orcid: 0000-0002-6205-9994
