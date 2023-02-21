@@ -3,7 +3,7 @@
 name: Mitch Conery
 image: images/team/mitch-conery.png
 description: Graduate Student (GCB)
-role: graduate
+role: PhD Student
 aliases:
   - Mitch Conery
 links:
