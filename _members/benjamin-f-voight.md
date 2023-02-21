@@ -11,6 +11,8 @@ links:
   orcid: 0000-0002-6205-9994
   email: bvoight28@gmail.com
   twitter: bvoight28
+  docs: testdoc
+ 
 ---
 
 I am a statistical and population geneticist interested in understanding the relationship between DNA sequence variation and complex human diseases or traits. To build this understanding, my lab constructs statistical and computational methods grounded in principles of population biology, applying them to genetic data collected across whole genomes. A central objective of my lab is to uncover how genetic variation contributes to the diverse set of traits evolved over recent human history and to the range of diseases we find today. My research has answered population genetic questions about recent demographic and selective events in human populations, and more recently I have focused on mapping risk alleles for common diseases, particularly type-2 diabetes and heart attack. I have also contributed to novel statistical approaches for population genetic inference, disease mapping studies, causal inference studies via Mendelian Randomization, as well as leading the development of next generation sequencing and genotypic assay technologies designed to improve characterization of genetic variation in the human genome.
