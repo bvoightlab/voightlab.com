@@ -2,7 +2,7 @@
 title: Calendar
 nav:
   order: 6
-  tooltip: Email, address, and location
+  tooltip: Ben's Public Calendar
 ---
 
 # <i class="fas fa-envelope"></i>Calendar
