@@ -44,7 +44,9 @@ We are located on the 10th floor of the [Smilow Center for Translational Researc
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 10-126 Smilow Center for Translational Research
+
 3400 Civic Center Boulevard  
+
 Philadelphia, PA 19104
 {:.center}
 
@@ -58,7 +60,7 @@ Philadelphia, PA 19104
 {% capture col2 %}
 {%
   include figure.html
-  image="images/droid-photo.jpg"
+  image="images/droid-visitor.jpg"
   caption="A droid visitor to the lab"
 %}
 {% endcapture %}
