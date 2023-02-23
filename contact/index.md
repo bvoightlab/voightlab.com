@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics]() and the [Department of Genetics](), at the [Perelman School of Medicine] as the [Univesrity of Pennsylvania]().
+We are located on the 10th floor of the [Smilow Center for Translational Research]().
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="bvoight28@gmail.com"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="bvoight28@gmail.com"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(215) 746-8083"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-215-746-8083"
   style="button"
 %}
 {%
@@ -34,7 +34,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://goo.gl/maps/ANnU9knKY6LNpxZ76"
   style="button"
 %}
 {:.center}
@@ -43,23 +43,23 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+10-126 Smilow Center for Translational Research
+3400 Civic Center Boulevard  
+Philadelphia, PA 19104
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/cada-in-philly.jpg"
+  caption="<i>C. darwini</i> takes over Philadelphia"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/droid-photo.jpg"
+  caption="A droid visitor to the lab"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
