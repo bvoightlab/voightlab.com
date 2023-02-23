@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) and the [Department of Genetics](https://genetics.med.upenn.edu/), at the [Perelman School of Medicine at the Univesrity of Pennsylvania](https://www.med.upenn.edu/).
-We are located at the [Smilow Center for Translational Research](https://www.facilities.upenn.edu/maps/locations/smilow-center-translational-research).
+Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) and the [Department of Genetics](https://genetics.med.upenn.edu/), at the [Univesrity of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/).
+Our lab is located in the [Smilow Center for Translational Research](https://www.facilities.upenn.edu/maps/locations/smilow-center-translational-research).
 
 {%
   include link.html
