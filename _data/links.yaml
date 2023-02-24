@@ -124,6 +124,12 @@ pubmed:
   tooltip: Pubmed
   link: $LINK
 
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: PDF
+  tooltip: PDF
+  link: $LINK
+
 # software
 
 docs:
