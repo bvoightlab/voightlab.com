@@ -5,7 +5,7 @@ nav:
   tooltip: Ben Voight's Public Calendar
 ---
 
-# <i class="fa-brands fa-galactic-republic"></i>Calendar
+# <i class="fa-regular fa-calendar"></i>Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=bvoight28%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
