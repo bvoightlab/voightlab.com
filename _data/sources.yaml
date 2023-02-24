@@ -1,4 +1,35 @@
-## test
+## 2022
+- id: doi.org/10.1038/s41588-022-01078-z
+  date: 2022-6-2
+  extra-links:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/35654975/
+      text: PubMed
+#    - type: pdf
+#      link: x
+#      text; PDF
+
+## 2012
+- id: doi.org/10.1016/S0140-6736(12)60312-2
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
+  date: 2012-8-11
+  extra-links:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/22607825/
+      text: PubMed
+    - type: pdf
+      link: https://www.sciencedirect.com/science/article/pii/S0140673612603122/pdfft?md5=cbb9b0840b893a8d12558a349e33c289&pid=1-s2.0-S0140673612603122-main.pdf
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2012/05/17/health/research/hdl-good-cholesterol-found-not-to-cut-heart-risk.html
+      text: NYT
+  tags:
+    - Mendelian Randomization
+    - Complex Traits
+    - Methods
+    - Lead Effort
+  
+## 2006
 - id: doi:10.1371/journal.pbio.0040072
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
   date: 2006-3-7
