@@ -17,6 +17,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/16494531/
     text: PubMed
+  - type: pdf
+    link: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0040072&type=printable
   tags:
   - PopGen
-  _cache: 2919555388b2ff1ceab9700a06d77e7f5a140d0b6065128c4028a000eba40edf
+  - Methods
+  - Lead Effort
+  _cache: 3289931ef1a7cc9c549e6bf50a8fd6feb22588139a3af468372eac1dc1b21248
