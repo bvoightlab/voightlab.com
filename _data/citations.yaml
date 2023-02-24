@@ -1,6 +1,264 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41588-022-01078-z
+  title: A multiancestry genome-wide association study of unexplained chronic ALT
+    elevation as a proxy for nonalcoholic fatty liver disease with histological and
+    radiological validation
+  authors:
+  - Marijana Vujkovic
+  - Shweta Ramdas
+  - Kim M. Lorenz
+  - Xiuqing Guo
+  - Rebecca Darlay
+  - Heather J. Cordell
+  - Jing He
+  - Yevgeniy Gindin
+  - Chuhan Chung
+  - Robert P. Myers
+  - Carolin V. Schneider
+  - Joseph Park
+  - Kyung Min Lee
+  - Marina Serper
+  - Rotonya M. Carr
+  - David E. Kaplan
+  - Mary E. Haas
+  - Matthew T. MacLean
+  - Walter R. Witschey
+  - Xiang Zhu
+  - Catherine Tcheandjieu
+  - Rachel L. Kember
+  - Henry R. Kranzler
+  - Anurag Verma
+  - Ayush Giri
+  - Derek M. Klarin
+  - Yan V. Sun
+  - Jie Huang
+  - Jennifer E. Huffman
+  - Kate Townsend Creasy
+  - Nicholas J. Hand
+  - Ching-Ti Liu
+  - Michelle T. Long
+  - Jie Yao
+  - Matthew Budoff
+  - Jingyi Tan
+  - Xiaohui Li
+  - Henry J. Lin
+  - Yii-Der Ida Chen
+  - Kent D. Taylor
+  - Ruey-Kang Chang
+  - Ronald M. Krauss
+  - Silvia Vilarinho
+  - Joseph Brancale
+  - Jonas B. Nielsen
+  - Adam E. Locke
+  - Marcus B. Jones
+  - Niek Verweij
+  - Aris Baras
+  - K. Rajender Reddy
+  - Brent A. Neuschwander-Tetri
+  - Jeffrey B. Schwimmer
+  - Arun J. Sanyal
+  - Naga Chalasani
+  - Kathleen A. Ryan
+  - Braxton D. Mitchell
+  - Dipender Gill
+  - Andrew D. Wells
+  - Elisabetta Manduchi
+  - Yedidya Saiman
+  - Nadim Mahmud
+  - Donald R. Miller
+  - Peter D. Reaven
+  - Lawrence S. Phillips
+  - Sumitra Muralidhar
+  - Scott L. DuVall
+  - Jennifer S. Lee
+  - Themistocles L. Assimes
+  - Saiju Pyarajan
+  - Kelly Cho
+  - Todd L. Edwards
+  - Scott M. Damrauer
+  - Peter W. Wilson
+  - J. Michael Gaziano
+  - "Christopher J. O\u2019Donnell"
+  - Amit V. Khera
+  - Struan F. A. Grant
+  - Christopher D. Brown
+  - Philip S. Tsao
+  - Danish Saleheen
+  - Luca A. Lotta
+  - Lisa Bastarache
+  - Quentin M. Anstee
+  - Ann K. Daly
+  - James B. Meigs
+  - Jerome I. Rotter
+  - Julie A. Lynch
+  - Daniel J. Rader
+  - Benjamin F. Voight
+  - Kyong-Mi Chang
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  publisher: Nature Genetics
+  date: '2022-06-02'
+  link: https://doi.org/gq7q5n
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
+  extra-links:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/35654975/
+    text: PubMed
+  _cache: d6269e514f2b7212ea51ac73ed7e1f58a48d86dc90969791bf94cea0473acd46
+- id: doi:10.1016/S0140-6736(12)60312-2
+  title: 'Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation
+    study'
+  authors:
+  - Benjamin F Voight
+  - Gina M Peloso
+  - Marju Orho-Melander
+  - Ruth Frikke-Schmidt
+  - Maja Barbalic
+  - Majken K Jensen
+  - George Hindy
+  - "Hilma H\xF3lm"
+  - Eric L Ding
+  - Toby Johnson
+  - Heribert Schunkert
+  - Nilesh J Samani
+  - Robert Clarke
+  - Jemma C Hopewell
+  - John F Thompson
+  - Mingyao Li
+  - Gudmar Thorleifsson
+  - Christopher Newton-Cheh
+  - Kiran Musunuru
+  - James P Pirruccello
+  - Danish Saleheen
+  - Li Chen
+  - Alexandre FR Stewart
+  - Arne Schillert
+  - Unnur Thorsteinsdottir
+  - Gudmundur Thorgeirsson
+  - Sonia Anand
+  - James C Engert
+  - Thomas Morgan
+  - John Spertus
+  - Monika Stoll
+  - Klaus Berger
+  - Nicola Martinelli
+  - Domenico Girelli
+  - Pascal P McKeown
+  - Christopher C Patterson
+  - Stephen E Epstein
+  - Joseph Devaney
+  - Mary-Susan Burnett
+  - Vincent Mooser
+  - Samuli Ripatti
+  - Ida Surakka
+  - Markku S Nieminen
+  - Juha Sinisalo
+  - Marja-Liisa Lokki
+  - Markus Perola
+  - Aki Havulinna
+  - Ulf de Faire
+  - Bruna Gigante
+  - Erik Ingelsson
+  - Tanja Zeller
+  - Philipp Wild
+  - Paul I W de Bakker
+  - Olaf H Klungel
+  - Anke-Hilse Maitland-van der Zee
+  - Bas J M Peters
+  - Anthonius de Boer
+  - Diederick E Grobbee
+  - Pieter W Kamphuisen
+  - Vera H M Deneer
+  - Clara C Elbers
+  - N Charlotte Onland-Moret
+  - Marten H Hofker
+  - Cisca Wijmenga
+  - WM Monique Verschuren
+  - Jolanda MA Boer
+  - Yvonne T van der Schouw
+  - Asif Rasheed
+  - Philippe Frossard
+  - Serkalem Demissie
+  - Cristen Willer
+  - Ron Do
+  - Jose M Ordovas
+  - "Gon\xE7alo R Abecasis"
+  - Michael Boehnke
+  - Karen L Mohlke
+  - Mark J Daly
+  - Candace Guiducci
+  - "No\xEBl P Burtt"
+  - Aarti Surti
+  - Elena Gonzalez
+  - Shaun Purcell
+  - Stacey Gabriel
+  - Jaume Marrugat
+  - John Peden
+  - Jeanette Erdmann
+  - Patrick Diemert
+  - Christina Willenborg
+  - "Inke R K\xF6nig"
+  - Marcus Fischer
+  - Christian Hengstenberg
+  - Andreas Ziegler
+  - Ian Buysschaert
+  - Diether Lambrechts
+  - Frans Van de Werf
+  - Keith A Fox
+  - Nour Eddine El Mokhtari
+  - Diana Rubin
+  - "J\xFCrgen Schrezenmeir"
+  - Stefan Schreiber
+  - "Arne Sch\xE4fer"
+  - John Danesh
+  - Stefan Blankenberg
+  - Robert Roberts
+  - Ruth McPherson
+  - Hugh Watkins
+  - Alistair S Hall
+  - Kim Overvad
+  - Eric Rimm
+  - Eric Boerwinkle
+  - Anne Tybjaerg-Hansen
+  - L Adrienne Cupples
+  - Muredach P Reilly
+  - Olle Melander
+  - Pier M Mannucci
+  - Diego Ardissino
+  - David Siscovick
+  - Roberto Elosua
+  - Kari Stefansson
+  - Christopher J O'Donnell
+  - Veikko Salomaa
+  - Daniel J Rader
+  - Leena Peltonen
+  - Stephen M Schwartz
+  - David Altshuler
+  - Sekar Kathiresan
+  publisher: The Lancet
+  date: '2012-08-11'
+  link: https://doi.org/kt8
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
+  extra-links:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/22607825/
+    text: PubMed
+  - type: pdf
+    link: https://www.sciencedirect.com/science/article/pii/S0140673612603122/pdfft?md5=cbb9b0840b893a8d12558a349e33c289&pid=1-s2.0-S0140673612603122-main.pdf
+    text: PDF
+  - type: news
+    link: https://www.nytimes.com/2012/05/17/health/research/hdl-good-cholesterol-found-not-to-cut-heart-risk.html
+    text: NYT
+  tags:
+  - Mendelian Randomization
+  - Complex Traits
+  - Methods
+  - Lead Effort
+  _cache: ef61b9ec44d3f953d2fe4d3cd72dca514af771394f39726a5c72d3e3fbb3033f
 - id: doi:10.1371/journal.pbio.0040072
   title: A Map of Recent Positive Selection in the Human Genome
   authors:
