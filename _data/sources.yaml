@@ -1,17 +1,14 @@
 ## 2022
-- id: doi.org/10.1038/s41588-022-01078-z
+- id: doi:10.1038/s41588-022-01078-z
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
   date: 2022-6-2
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35654975/
       text: PubMed
-#    - type: pdf
-#      link: x
-#      text; PDF
 
 ## 2012
-- id: doi.org/10.1016/S0140-6736(12)60312-2
+- id: doi:10.1016/S0140-6736(12)60312-2
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
   date: 2012-8-11
   extra-links:
