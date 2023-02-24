@@ -2,13 +2,17 @@
 - id: doi:10.1371/journal.pbio.0040072
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
   date: 2006-3-7
-  repo: https://github.com/bvoight/iHS_calc
+  repo: https://github.com/bvoightlab/iHS_calc
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16494531/
       text: PubMed
     - type: pdf
       link: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0040072&type=printable
+      text: PDF
+    - type: source
+      link: https://github.com/bvoightlab/iHS_calc
+      text: GitHub
   tags:
     - PopGen
     - Methods

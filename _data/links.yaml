@@ -130,6 +130,18 @@ pdf:
   tooltip: PDF
   link: $LINK
 
+news:
+  icon: fa-solid fa-radio
+  text: News
+  tooltip: News
+  link: $LINK
+
+cover:
+  icon: fa-solid fa-wand-magic-sparkles
+  text: Cover Art
+  tooltip: Cover Art
+  link: $LINK
+
 # software
 
 docs:
@@ -157,7 +169,7 @@ app:
   link: $LINK
 
 data:
-  icon: fas fa-database
+  icon: fa-solid fa-database
   text: Data
   tooltip: Data
   link: $LINK
