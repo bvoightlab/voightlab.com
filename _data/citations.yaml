@@ -14,9 +14,9 @@
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
   repo: https://github.com/bvoight/iHS_calc
   extra-links:
-  - type: source
+  - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/16494531/
     text: PubMed
   tags:
   - PopGen
-  _cache: c7ede0bf3490e83b67fbde322b701abd99d2a2fe5a7d0f9bb28e2c60e8cefcb6
+  _cache: 2919555388b2ff1ceab9700a06d77e7f5a140d0b6065128c4028a000eba40edf
