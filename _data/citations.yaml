@@ -12,15 +12,19 @@
   date: '2006-03-07'
   link: https://doi.org/dtg393
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
-  repo: https://github.com/bvoight/iHS_calc
+  repo: https://github.com/bvoightlab/iHS_calc
   extra-links:
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/16494531/
     text: PubMed
   - type: pdf
     link: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0040072&type=printable
+    text: PDF
+  - type: source
+    link: https://github.com/bvoightlab/iHS_calc
+    text: GitHub
   tags:
   - PopGen
   - Methods
   - Lead Effort
-  _cache: 3289931ef1a7cc9c549e6bf50a8fd6feb22588139a3af468372eac1dc1b21248
+  _cache: ff975cc63acb03c8744c86f007e604ab589a3db2122d3b1a2ef28867571d5271
