@@ -118,6 +118,12 @@ manubot:
   tooltip: Manubot
   link: $LINK
 
+pubmed:
+  icon: fa-solid fa-book-open
+  text: Pubmed
+  tooltip: Pubmed
+  link: $LINK
+
 # software
 
 docs:
