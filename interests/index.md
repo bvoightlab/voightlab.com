@@ -5,7 +5,7 @@ nav:
   tooltip: Research Interests
 ---
 
-# <i class="fas fa-lightbulb-exclamation-on"></i>Research Interests
+# <i class="fa-solid fa-lightbulb"></i>Research Interests
 
 This is where my broad interests are described.
 
