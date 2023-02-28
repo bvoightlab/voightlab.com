@@ -311,9 +311,9 @@
   tags:
   - PopGen
   - Methods
-  - Selected Work
   - Complex Traits
-  _cache: 67e8ed9cc863afd12aa83f76620a294940cba9601111a71f25e28d0f4006ccdd
+  - Selected Work
+  _cache: ea86a92bbdb73a415adcf8fec73626795395f82c9963847186f9b2dbcfb2f938
 - id: doi:10.1073/pnas.0507325102
   title: Interrogating multiple aspects of variation in a full resequencing data set
     to infer human population size changes
