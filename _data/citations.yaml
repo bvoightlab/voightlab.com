@@ -108,7 +108,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/35654975/
     text: PubMed
-  _cache: d6269e514f2b7212ea51ac73ed7e1f58a48d86dc90969791bf94cea0473acd46
+  tags:
+  - Complex Traits
+  - Selected Work
+  _cache: b49520aa49b8ec7380637860539258ae139f128759de1f405b382ab89f882c50
 - id: doi:10.1016/S0140-6736(12)60312-2
   title: 'Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation
     study'
@@ -257,8 +260,8 @@
   - Mendelian Randomization
   - Complex Traits
   - Methods
-  - Lead Effort
-  _cache: ef61b9ec44d3f953d2fe4d3cd72dca514af771394f39726a5c72d3e3fbb3033f
+  - Selected Work
+  _cache: 599c1b3e2b7e95cdff86118b5dc4809a9b407ff4a8643e84c8040a43b5c98cda
 - id: doi:10.1371/journal.pbio.0040072
   title: A Map of Recent Positive Selection in the Human Genome
   authors:
@@ -287,5 +290,53 @@
   tags:
   - PopGen
   - Methods
-  - Lead Effort
-  _cache: 03c845cf76a6084c37a47f770e4f3084830f7bf9b20a3ccab9ac7428fad37f16
+  - Selected Work
+  _cache: 0f04b3beb4772f3b7200044aa2ca8059a4b94e524f442aad7d3371451001f9f2
+- id: doi:10.1371/journal.pgen.0010032
+  title: Confounding from Cryptic Relatedness in Case-Control Association Studies
+  authors:
+  - Benjamin F Voight
+  - Jonathan K Pritchard
+  publisher: PLoS Genetics
+  date: ''
+  link: https://doi.org/cnshxs
+  image: https://journals.plos.org/plosgenetics/article/file?type=thumbnail&id=10.1371/journal.pgen.0010032.e014
+  extra-links:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/16151517/
+    text: PubMed
+  - type: pdf
+    link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0010032&type=printable
+    text: PDF
+  tags:
+  - PopGen
+  - Methods
+  - Selected Work
+  - Complex Traits
+  _cache: 31b5d59134a8b8bca95267dd9f95023bf742dad1fc71e5772c7224c334e78f58
+- id: doi:10.1073/pnas.0507325102
+  title: Interrogating multiple aspects of variation in a full resequencing data set
+    to infer human population size changes
+  authors:
+  - Benjamin F. Voight
+  - Alison M. Adams
+  - Linda A. Frisse
+  - Yudong Qian
+  - Richard R. Hudson
+  - Anna Di Rienzo
+  publisher: Proceedings of the National Academy of Sciences
+  date: ''
+  link: https://doi.org/csk4g5
+  image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
+  extra-links:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/16352722/
+    text: PubMed
+  - type: pdf
+    link: https://www.pnas.org/doi/epdf/10.1073/pnas.0507325102
+    text: PDF
+  tags:
+  - PopGen
+  - Methods
+  - Selected Work
+  _cache: 150426854b0afebfb7e1f4a598e77bd755980ef73c77c80d449cbf1f14735e14
