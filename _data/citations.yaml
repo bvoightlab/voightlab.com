@@ -101,7 +101,7 @@
   - ' '
   - ' '
   publisher: Nature Genetics
-  date: '2022-06-02'
+  date: '2022-06-01'
   link: https://doi.org/gq7q5n
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
   extra-links:
@@ -111,7 +111,7 @@
   tags:
   - Complex Traits
   - Selected Work
-  _cache: b49520aa49b8ec7380637860539258ae139f128759de1f405b382ab89f882c50
+  _cache: 3426bfc56f7e16ace11cdf39f56670043a2afbf1421e646f96b10a1a346c8afe
 - id: doi:10.1016/S0140-6736(12)60312-2
   title: 'Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation
     study'
@@ -243,7 +243,7 @@
   - David Altshuler
   - Sekar Kathiresan
   publisher: The Lancet
-  date: '2012-08-11'
+  date: '2012-08-01'
   link: https://doi.org/kt8
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
   extra-links:
@@ -261,7 +261,7 @@
   - Complex Traits
   - Methods
   - Selected Work
-  _cache: 599c1b3e2b7e95cdff86118b5dc4809a9b407ff4a8643e84c8040a43b5c98cda
+  _cache: 9c4c354c442c4c9d8910a56c0ddf5ffe8633412f2308395d53a56069435dd17f
 - id: doi:10.1038/ng1946
   title: Convergent adaptation of human lactase persistence in Africa and Europe
   authors:
@@ -285,7 +285,7 @@
   - Gregory A Wray
   - Panos Deloukas
   publisher: Nature Genetics
-  date: '2007-01-01'
+  date: '2006-12-10'
   link: https://doi.org/czqbfc
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng1946/MediaObjects/41588_2007_Article_BFng1946_Fig7_HTML.jpg?as=webp
   extra-links:
@@ -298,7 +298,151 @@
   - type: news
     link: https://www.nytimes.com/2006/12/11/science/lactose-tolerance-in-east-africa-points-to-recent-evolution.html
     text: NYT
-  _cache: d6bbcf2e34b3853ff1f9c8ae7289524599c2f81777d5bf9962eb63f17a196b37
+  tags:
+  - PopGen
+  - Selected Work
+  _cache: 419a2f6bc149394f944708d44ee1be5bc503dec56d8fb93ac3c3b815bf23fdb2
+- id: doi:10.1126/science.1142358
+  title: Genome-Wide Association Analysis Identifies Loci for Type 2 Diabetes and
+    Triglyceride Levels
+  authors:
+  - Richa Saxena
+  - Benjamin F. Voight
+  - Valeriya Lyssenko
+  - "Noe\u0308l P. Burtt"
+  - Paul I. W. de Bakker
+  - Hong Chen
+  - Jeffrey J. Roix
+  - Sekar Kathiresan
+  - Joel N. Hirschhorn
+  - Mark J. Daly
+  - Thomas E. Hughes
+  - Leif Groop
+  - David Altshuler
+  - Peter Almgren
+  - Jose C. Florez
+  - Joanne Meyer
+  - Kristin Ardlie
+  - "Kristina Bengtsson Bostro\u0308m"
+  - Bo Isomaa
+  - Guillaume Lettre
+  - Ulf Lindblad
+  - Helen N. Lyon
+  - Olle Melander
+  - Christopher Newton-Cheh
+  - Peter Nilsson
+  - Marju Orho-Melander
+  - "Lennart Ra\u030Astam"
+  - Elizabeth K. Speliotes
+  - Marja-Riitta Taskinen
+  - Tiinamaija Tuomi
+  - Candace Guiducci
+  - Anna Berglund
+  - Joyce Carlson
+  - Lauren Gianniny
+  - Rachel Hackett
+  - Liselotte Hall
+  - Johan Holmkvist
+  - Esa Laurila
+  - "Marketa Sjo\u0308gren"
+  - Maria Sterner
+  - Aarti Surti
+  - Margareta Svensson
+  - Malin Svensson
+  - Ryan Tewhey
+  - Brendan Blumenstiel
+  - Melissa Parkin
+  - Matthew DeFelice
+  - Rachel Barry
+  - Wendy Brodeur
+  - Jody Camarata
+  - Nancy Chia
+  - Mary Fava
+  - John Gibbons
+  - Bob Handsaker
+  - Claire Healy
+  - Kieu Nguyen
+  - Casey Gates
+  - Carrie Sougnez
+  - Diane Gage
+  - Marcia Nizzari
+  - Stacey B. Gabriel
+  - Gung-Wei Chirn
+  - Qicheng Ma
+  - Hemang Parikh
+  - Delwood Richardson
+  - Darrell Ricke
+  - Shaun Purcell
+  publisher: Science
+  date: '2007-06-01'
+  link: https://doi.org/bc235g
+  image: https://www.science.org/cms/10.1126/science.1142358/asset/0309a869-2d76-4898-98de-76015de06963/assets/graphic/316_1331_f2.jpeg
+  extra-links:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/17463246/
+    text: PubMed
+  - type: pdf
+    link: https://www.science.org/doi/reader/10.1126/science.1142358
+    text: PDF
+  - type: news
+    link: https://www.nytimes.com/2007/04/27/us/27diabetes.html
+    text: NYT
+  tags:
+  - Complex Traits
+  - Type 2 Diabetes
+  - Selected Work
+  _cache: eb611ee2a3fdef9dbcdc7af08992ecd23e7783035ffffd7460fd3e6d35e5a839
+- id: doi:10.1038/ng2121
+  title: A common variant of HMGA2 is associated with adult and childhood height in
+    the general population
+  authors:
+  - Michael N Weedon
+  - ' '
+  - Guillaume Lettre
+  - Rachel M Freathy
+  - Cecilia M Lindgren
+  - Benjamin F Voight
+  - John R B Perry
+  - Katherine S Elliott
+  - Rachel Hackett
+  - Candace Guiducci
+  - Beverley Shields
+  - Eleftheria Zeggini
+  - Hana Lango
+  - Valeriya Lyssenko
+  - Nicholas J Timpson
+  - Noel P Burtt
+  - Nigel W Rayner
+  - Richa Saxena
+  - Kristin Ardlie
+  - Jonathan H Tobias
+  - Andrew R Ness
+  - Susan M Ring
+  - Colin N A Palmer
+  - Andrew D Morris
+  - Leena Peltonen
+  - Veikko Salomaa
+  - George Davey Smith
+  - Leif C Groop
+  - Andrew T Hattersley
+  - Mark I McCarthy
+  - Joel N Hirschhorn
+  - Timothy M Frayling
+  - ' '
+  publisher: Nature Genetics
+  date: '2007-09-02'
+  link: https://doi.org/fj4rrg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/bin/ukmss-35163-f0002.jpg
+  extra-links:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/17767157/
+    text: PubMed
+  - type: pdf
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/
+    text: PDF
+  tags:
+  - Complex Traits
+  _cache: f37db0c927bce1cd7bf5b963a6e49f5954fcb0a3adbe76ba7f8cf1e8a134106b
 - id: doi:10.1371/journal.pbio.0040072
   title: A Map of Recent Positive Selection in the Human Genome
   authors:
@@ -328,7 +472,7 @@
   - PopGen
   - Methods
   - Selected Work
-  _cache: 0f04b3beb4772f3b7200044aa2ca8059a4b94e524f442aad7d3371451001f9f2
+  _cache: aab91882614e633021f8ea5d31d04647307716f7b311424efb57b24571866adb
 - id: doi:10.1371/journal.pgen.0020067
   title: Coverage and Characteristics of the Affymetrix GeneChip Human Mapping 100K
     SNP Set
@@ -350,7 +494,7 @@
     text: PDF
   tags:
   - Complex Traits
-  _cache: 2135c7ad0b67dd45bd5a8fe3598eea933319db12eaf2efa6a3188ccc73ad9abb
+  _cache: 8c88ff3bf75d79108c1d552782febd2ddd0a869a48248f0d9d72226b10b2434b
 - id: doi:10.1371/journal.pgen.0010032
   title: Confounding from Cryptic Relatedness in Case-Control Association Studies
   authors:
