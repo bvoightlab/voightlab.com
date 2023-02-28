@@ -372,7 +372,7 @@
   - Methods
   - Complex Traits
   - Selected Work
-  _cache: ea86a92bbdb73a415adcf8fec73626795395f82c9963847186f9b2dbcfb2f938
+  _cache: 0cd159d7150273e1553db6705a4e16c9e9445d42c309ab23d63035ac8fdfa840
 - id: doi:10.1073/pnas.0507325102
   title: Interrogating multiple aspects of variation in a full resequencing data set
     to infer human population size changes
@@ -384,7 +384,7 @@
   - Richard R. Hudson
   - Anna Di Rienzo
   publisher: Proceedings of the National Academy of Sciences
-  date: ''
+  date: '2005-12-13'
   link: https://doi.org/csk4g5
   image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
   extra-links:
@@ -398,4 +398,4 @@
   - PopGen
   - Methods
   - Selected Work
-  _cache: bb7088b53123a653290e9ff0d61aec66d5f904b8e313fa744f908295b3fe78f1
+  _cache: 63bb5b6ea93049960c56ca0dfbc2d68b7a3e947dd3d3e97729d97f9e010faefb
