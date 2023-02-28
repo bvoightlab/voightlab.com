@@ -84,7 +84,7 @@
 ## 2005
 - id: doi:10.1371/journal.pgen.0010032
   image: https://journals.plos.org/plosgenetics/article/file?type=thumbnail&id=10.1371/journal.pgen.0010032.e014
-  date: 2005-9-2
+  #date: 2005-9-2
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16151517/
@@ -100,7 +100,7 @@
     
 - id: doi:10.1073/pnas.0507325102
   image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
-  date: 2005
+  #  date: 2005
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16352722/
