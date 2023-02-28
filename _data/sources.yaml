@@ -1,11 +1,13 @@
 ## 2022
 - id: doi:10.1038/s41588-022-01078-z
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
-  date: 2022-6-2
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35654975/
       text: PubMed
+#    - type: pdf
+#      link: XXX
+#      text: PDF
   tags:
     - Complex Traits
     - Selected Work
@@ -13,7 +15,6 @@
 ## 2012
 - id: doi:10.1016/S0140-6736(12)60312-2
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
-  date: 2012-8-11
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/22607825/
@@ -33,7 +34,6 @@
 ## 2007
 - id: doi:10.1038/ng1946
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng1946/MediaObjects/41588_2007_Article_BFng1946_Fig7_HTML.jpg?as=webp
-  date: 2007-1-1
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/17159977/
@@ -44,11 +44,42 @@
     - type: news
       link: https://www.nytimes.com/2006/12/11/science/lactose-tolerance-in-east-africa-points-to-recent-evolution.html
       text: NYT
+  tags:
+    - PopGen
+    - Selected Work
 
+- id: doi:10.1126/science.1142358
+  image: https://www.science.org/cms/10.1126/science.1142358/asset/0309a869-2d76-4898-98de-76015de06963/assets/graphic/316_1331_f2.jpeg
+  extra-links:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/17463246/
+      text: PubMed
+    - type: pdf
+      link: https://www.science.org/doi/reader/10.1126/science.1142358
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2007/04/27/us/27diabetes.html
+      text: NYT
+  tags:
+    - Complex Traits
+    - Type 2 Diabetes
+    - Selected Work
+    
+- id: doi:10.1038/ng2121
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/bin/ukmss-35163-f0002.jpg 
+  extra-links:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/17767157/
+      text: PubMed
+    - type: pdf
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/
+      text: PDF
+  tags:
+    - Complex Traits
+      
 ## 2006
 - id: doi:10.1371/journal.pbio.0040072
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
-  date: 2006-3-7
   repo: https://github.com/bvoightlab/iHS_calc
   extra-links:
     - type: pubmed
@@ -70,7 +101,6 @@
     
 - id: doi:10.1371/journal.pgen.0020067
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.0020067.g005
-  date: 2006-5-5
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16680197/
@@ -84,7 +114,6 @@
 ## 2005
 - id: doi:10.1371/journal.pgen.0010032
   image: https://journals.plos.org/plosgenetics/article/file?type=thumbnail&id=10.1371/journal.pgen.0010032.e014
-  #date: 2005-9-2
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16151517/
@@ -100,7 +129,6 @@
     
 - id: doi:10.1073/pnas.0507325102
   image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
-  #  date: 2005
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16352722/
@@ -112,38 +140,21 @@
     - PopGen
     - Methods
     - Selected Work
-
-## excludes
-#- id: doi:10.1016/j.csbj.2020.05.017
-#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-#  date: 2020-6-2
+    
+    
+## Blank entry
+#- id: 
+#  image: 
 #  extra-links:
-#    - type: manubot
-#      link: https://greenelab.github.io/knowledge-graph-review/
+#    - type: pubmed
+#      link: https://pubmed.ncbi.nlm.nih.gov//
+#      text: PubMed
+#    - type: pdf
+#      link: 
+#      text: PDF
+#    - type: news
+#      link: 
+#      text: NYT
 #  tags:
-#    - knowledge graphs
-
-#- id: doi:10.1371/journal.pcbi.1007128
-#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-#  repo: greenelab/meta-review
-#  extra-links:
-#    - type: manubot
-#      link: https://greenelab.github.io/meta-review/
-#    - type: source
-#      link: https://github.com/greenelab/meta-review
-#    - type: website
-#      link: http://manubot.org/
-
-#- id: doi:10.7554/eLife.32822
-#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-#  extra-links:
-#    - type: preprint
-#      link: https://doi.org/10.7287/peerj.preprints.3100v1
-#    - type: manubot
-#      link: https://greenelab.github.io/scihub-manuscript/
-#    - type: source
-#      link: https://github.com/greenelab/scihub-manuscript
-#      text: Manuscript source
-#    - type: source
-#      link: https://github.com/greenelab/scihub
-#      text: Analyses source
+#    - 
+#    -
