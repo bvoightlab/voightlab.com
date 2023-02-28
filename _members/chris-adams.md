@@ -1,7 +1,7 @@
 ---
 
 name: Chris Adams
-image: images/team/chris-adams.jpg
+image: images/team/chris-adams.png
 description: PhD Student (GCB)
 role: phd
 aliases:
