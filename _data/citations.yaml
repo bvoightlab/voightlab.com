@@ -281,8 +281,11 @@
   - type: source
     link: https://github.com/bvoightlab/iHS_calc
     text: GitHub
+  - type: news
+    link: https://www.nytimes.com/2006/03/07/science/still-evolving-human-genes-tell-new-story.html
+    text: NYT
   tags:
   - PopGen
   - Methods
   - Lead Effort
-  _cache: ff975cc63acb03c8744c86f007e604ab589a3db2122d3b1a2ef28867571d5271
+  _cache: 03c845cf76a6084c37a47f770e4f3084830f7bf9b20a3ccab9ac7428fad37f16
