@@ -29,7 +29,22 @@
     - Complex Traits
     - Methods
     - Selected Work
-  
+
+## 2007
+- id: doi:10.1038/ng1946
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng1946/MediaObjects/41588_2007_Article_BFng1946_Fig7_HTML.jpg?as=webp
+  date: 2007-1-1
+  extra-links:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/17159977/
+      text: PubMed
+    - type: pdf
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672153/pdf/ukmss-4417.pdf
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2006/12/11/science/lactose-tolerance-in-east-africa-points-to-recent-evolution.html
+      text: NYT
+
 ## 2006
 - id: doi:10.1371/journal.pbio.0040072
   image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
@@ -53,6 +68,19 @@
     - Methods
     - Selected Work
     
+- id: doi:10.1371/journal.pgen.0020067
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.0020067.g005
+  date: 2006-5-5
+  extra-links:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/16680197/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0020067&type=printable
+      text: PDF
+  tags:
+    - Complex Traits  
+  
 ## 2005
 - id: doi:10.1371/journal.pgen.0010032
   image: https://journals.plos.org/plosgenetics/article/file?type=thumbnail&id=10.1371/journal.pgen.0010032.e014
@@ -72,7 +100,7 @@
     
 - id: doi:10.1073/pnas.0507325102
   image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
-  date: 2005-Dec-13
+  date: 2005
   extra-links:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16352722/
