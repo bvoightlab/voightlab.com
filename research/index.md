@@ -12,6 +12,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+{% include four-col.html col1=col1content col2=col2content col3=col3content col4=col4content %}
 
 {% capture col1content %}
 {%
@@ -50,7 +51,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {% endcapture %}
 
-{% include four-col.html col1=col1content col2=col2content col3=col3content col4=col4content %}
 
 {% include section.html %}
 
