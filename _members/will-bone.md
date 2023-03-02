@@ -11,6 +11,7 @@ links:
   orcid: 0000-0002-9617-4624
   email: wbone@pennmedicine.upenn.edu
   github: wpbone06
+  google-scholar: XQbBLNcAAAAJ
   website: https://wpbone06.github.io/
 
 ---
