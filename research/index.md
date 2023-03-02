@@ -15,7 +15,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include tags.html
   tags="PopGen"
-  link="https://voightlab.com/research/?search=%22tag:%20PopGen%22"
+  #link="https://voightlab.com/research/?search='tag:PopGen'"
 %}
 
 
