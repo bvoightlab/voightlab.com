@@ -1,0 +1,31 @@
+- title: Subjects
+  group: pubtags
+  description: Tags focused on phenotypic areas of lab interest.
+  tags:
+    - Complex Traits
+    - Type-2 Diabetes
+    - EHR Data
+    - Spiders
+
+- title: Approach
+  group: pubtags
+  description: Tags highlighting some of the types of approaches we use in the lab.
+  tags:
+    - PopGen
+    - Mendelian Randomization
+    - Methods
+
+- title: Cohorts
+  group: pubtags
+  description: Tags highlighting cohorts of local cohorts that our work engages with. 
+  tags:
+    - Million Veteran Program
+    - Penn Medicine BioBank
+
+- title: Contribution
+  group: pubtags
+  description: Tags which capture our contributive role for our scientific activities.
+  tags:
+    - Selected Work
+    - Collaborative
+    

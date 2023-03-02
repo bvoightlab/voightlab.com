@@ -12,45 +12,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{% include four-col.html col1=col1content col2=col2content col3=col3content col4=col4content %}
-
-{% capture col1content %}
-{%
-  include tags.html
-  tags="PopGen"
-  link="https://voightlab.com/research/"
-%}
-{%
-  include tags.html
-  tags="Methods"
-  link="https://voightlab.com/research/"
-%}
-{% endcapture %}
-
-{% capture col2content %}
-{%
-  include tags.html
-  tags="Selected"
-  link="https://voightlab.com/research/"
-%}
-{% endcapture %}
-
-{% capture col3content %}
-{%
-  include tags.html
-  tags="Collaborative"
-  link="https://voightlab.com/research/"
-%}
-{% endcapture %}
-
-{% capture col4content %}
-{%
-  include tags.html
-  tags="Complex Traits"
-  link="https://voightlab.com/research/"
-%}
-{% endcapture %}
-
+{% include list.html component="card" data="pubtags" filters="group: pubtags" style="small" %
 
 {% include section.html %}
 
