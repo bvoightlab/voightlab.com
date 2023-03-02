@@ -47,7 +47,13 @@ cv:
   text: CV
   tooltip: Curriculum Vitae
   link: $LINK
-  
+
+website:
+  icon: fa-solid fa-globe
+  text: Website
+  tooltip: Website
+  link: $LINK
+
 # social media
 
 orcid:
