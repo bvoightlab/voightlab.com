@@ -16,11 +16,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include tags.html
   tags="PopGen"
   link="https://voightlab.com/research/"
+%}
+
+{%
+  include tags.html
   tags="Methods"
   link="https://voightlab.com/research/"
 %}
-
-
 
 {% include section.html %}
 
