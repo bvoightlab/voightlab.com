@@ -16,9 +16,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include tags.html
   tags="PopGen"
   link="https://voightlab.com/research/"
+  tags="Methods"
+  link="https://voightlab.com/research/"
 %}
 
-#https://voightlab.com/research/?search=%22tag:%20Complex%20Traits%22
 
 
 {% include section.html %}
