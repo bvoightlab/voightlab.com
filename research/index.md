@@ -14,8 +14,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 Phenotypic areas of interest to the Lab: [Complex Traits](https://voightlab.com/research/?search=%22tag:%20Complex%20Traits%22), [Type-2 Diabetes](https://voightlab.com/research/?search=%22tag:%20Type-2%20Diabetes%22), [EHR Data](https://voightlab.com/research/?search=%22tag:%20EHR%20Data%22), [Spiders](https://voightlab.com/research/?search=%22tag:%20Spiders%22)
 
-## {% include list.html component="card" data="pubtags" filters="group: pubtags" style="small" %}
-
+{% include tags.html tags="Complex Traits, Mendelian Randomization, Spiders" link="https://voightlab.com/research/" %}
 
 
 {% include section.html %}
