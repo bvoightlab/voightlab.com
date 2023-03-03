@@ -3,7 +3,7 @@
 name: Diana Cousminer
 image: images/team/default.jpg
 description: Post-doctoral Fellow (Joint with Struan Grant)
-role: post-doc
+role: postdoc
 group: alum
 aliases:
   - Diana Cousminer
