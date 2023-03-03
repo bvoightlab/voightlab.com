@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Onur Yörük
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Masters Student (GCB)
+role: masters
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Onur Yörük
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+#  email: lorenzk@pennmedicine.upenn.edu
 #  github: 
  
 ---
