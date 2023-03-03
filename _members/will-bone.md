@@ -4,6 +4,7 @@ name: Will Bone
 image: images/team/will-bone.jpg
 description: PhD Student (GCB)
 role: phd
+group: member
 aliases:
   - William P Bone
   - Will Bone
