@@ -1,16 +1,16 @@
 ---
 
-name: Kimberly Lorenz
+name: Chris Thom
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: M.D. Post-doctoral fellow
+role: post-doc
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Chris Thom
+  - Christopher P Thom
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: ThomC@chop.edu
 #  github: 
  
 ---
