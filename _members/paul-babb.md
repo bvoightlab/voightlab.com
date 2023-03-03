@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Paul Babb
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Post-doctoral Researcher
+role: postdoc
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Paul Babb
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: pbabb926@gmail.com
 #  github: 
  
 ---
