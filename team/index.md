@@ -45,23 +45,23 @@ Our work is made possible by funding from several organizations.
   link1="https://sloan.org/"
   tooltip6="Alfred P. Sloan Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/team/national-institute-diabetes-digestive-kidney-diseases.png"
+  link2="https://www.niddk.nih.gov/"
+  tooltip2="National Institute of Diabetes and Digestive and Kidney Diseases"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/team/american-heart-association.png"
+  link3="https://www.heart.org/"
+  tooltip3="American Heart Association"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/team/ww-smith-charitable-trust.png"
+  link4="http://www.wwsmithcharitabletrust.org/"
+  tooltip4="W.W. Smith Charitable Trust"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image5="images/team/us-department-of-veterans-affairs.png"
+  link5="https://www.va.gov/"
+  tooltip5="U.S. Department of Veterans Affairs"
+  
+  
+  
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}
