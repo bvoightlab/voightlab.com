@@ -41,7 +41,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/team/alfred-p-sloan-foundation.png"
   link1="https://sloan.org/"
@@ -62,8 +61,7 @@ Our work is made possible by funding from several organizations.
   image5="images/team/us-department-of-veterans-affairs.png"
   link5="https://www.va.gov/"
   tooltip5="U.S. Department of Veterans Affairs"
-  
-  
-  
 
 %}
+
+{% include section.html %}
