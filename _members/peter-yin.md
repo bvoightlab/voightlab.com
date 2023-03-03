@@ -1,17 +1,16 @@
 ---
 
-name: Kimberly Lorenz
+name: Peter Yin
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Undergraduate (SAS)
+role: undergrad
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Peter Yin
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
-#  github: 
+  email: py.peteryin@gmail.com
+  github: peteryin21
  
 ---
 
