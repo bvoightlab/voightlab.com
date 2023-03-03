@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Louise Wang
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: MD Post-doctoral Researcher
+role: postdoc
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Louise Wang
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: louise.wang@yale.edu
 #  github: 
  
 ---
