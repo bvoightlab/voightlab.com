@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Katerina Gawronski
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: PhD Student (GE, joint with Casey Brown)
+role: phd
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Katerina Gawronski
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: katgawrons@gmail.com
 #  github: 
  
 ---
