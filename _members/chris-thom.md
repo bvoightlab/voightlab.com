@@ -3,7 +3,7 @@
 name: Chris Thom
 image: images/team/default.jpg
 description: M.D. Post-doctoral fellow
-role: post-doc
+role: postdoc
 group: alum
 aliases:
   - Chris Thom
