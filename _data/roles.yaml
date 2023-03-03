@@ -18,6 +18,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
+bioinformatician:
+  icon: fa-solid fa-laptop-file
+  text: Bioinformatician
+
 programmer:
   icon: fas fa-code
   text: Programmer
