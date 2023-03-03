@@ -3,7 +3,7 @@
 name: David Nicholson
 image: images/team/david-nicholson.jpg
 description: Post-bac (PennPrep)
-role: undergraduate
+role: undergrad
 group: alum
 aliases:
   - David Nicholson
