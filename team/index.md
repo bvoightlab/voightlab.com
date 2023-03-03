@@ -12,6 +12,8 @@ redirect_from:
 
 # <i class="fa-solid fa-users"></i>Team
 
+{% include section.html %}
+
 {% include list.html data="members" component="portrait" filters="role: pi, group: member" %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: member" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: member" %}
