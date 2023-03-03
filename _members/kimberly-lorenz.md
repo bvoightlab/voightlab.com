@@ -4,6 +4,7 @@ name: Kimberly Lorenz
 image: images/team/default.jpg
 description: Bioinformatician
 role: programmer
+group: member
 aliases:
   - Kim Lorenz
   - Kimberly Lorenz
