@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Kaushik Visvanathan
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Master's Student (CIS)
+role: masters
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Kaushik Visvanathan
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: kaushik.visvanathan@gmail.com
 #  github: 
  
 ---
