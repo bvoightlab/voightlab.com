@@ -1,16 +1,16 @@
 ---
 
-name: Kimberly Lorenz
+name: Diana Cousminer
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Post-doctoral Fellow (Joint with Struan Grant)
+role: post-doc
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Diana Cousminer
 links:
-#  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  orcid: 0000-0001-8864-7893
+  email: dcousminer@gmail.com
+  twitter: DianaCousminer
 #  github: 
  
 ---
