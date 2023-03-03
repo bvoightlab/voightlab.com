@@ -1,17 +1,17 @@
 ---
 
-name: Kimberly Lorenz
+name: Rocky Aikens
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Undergraduate (Swarthmore)
+role: undergrad
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Rachael Aikens
+  - Rachael C Aikens
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
-#  github: 
+  email: rockyaikens@gmail.com
+  github: raikens1
  
 ---
 
