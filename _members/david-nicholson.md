@@ -1,7 +1,7 @@
 ---
 
 name: David Nicholson
-image: images/team/default.jpg
+image: images/team/david-nicholson.jpg
 description: Post-bac (PennPrep)
 role: undergraduate
 group: alum
