@@ -4,6 +4,7 @@ name: Mary Ann Hazuga
 image: images/team/default.jpg
 description: PhD Student (GCB)
 role: phd
+group: member
 aliases:
   - Mary Ann Hazuga
 links:
