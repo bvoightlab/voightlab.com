@@ -2,7 +2,6 @@
 
 name: Katerina Gawronski
 image: images/team/default.jpg
-description: PhD Student (GE, joint with Casey Brown)
 role: phd
 group: alum
 aliases:
