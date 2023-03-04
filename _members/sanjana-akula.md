@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Sanjana Akula
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Undergraduate (SAS)
+role: undergrad
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Sanjana Akula
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: sanjana.akula1@gmail.com
 #  github: 
  
 ---
