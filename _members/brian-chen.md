@@ -2,7 +2,6 @@
 
 name: Brian Chen
 image: images/team/default.jpg
-description: Bioinformatician
 role: undergrad
 group: alum
 aliases:
