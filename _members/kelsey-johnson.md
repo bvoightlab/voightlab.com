@@ -2,7 +2,6 @@
 
 name: Kelsey Johnson
 image: images/team/default.jpg
-description: PhD Student (GE)
 role: phd
 group: alum
 aliases:
