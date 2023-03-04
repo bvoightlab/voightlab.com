@@ -19,7 +19,7 @@ undergrad:
   text: Undergraduate Student
 
 bioinformatician:
-  icon: fa-solid fa-laptop-file
+  icon: fas fa-laptop-file
   text: Bioinformatician
 
 programmer:
