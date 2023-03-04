@@ -2,7 +2,6 @@
 
 name: Paul Babb
 image: images/team/default.jpg
-description: Post-doctoral Researcher
 role: postdoc
 group: alum
 aliases:
