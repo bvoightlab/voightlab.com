@@ -2,7 +2,6 @@
 
 name: Zhuoran Ding
 image: images/team/default.jpg
-description: Masters Student (GGEB)
 role: masters
 group: alum
 aliases:
