@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Varun Aggarwala
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: PhD Student (GCB)
+role: phd
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Varun Aggarwala
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: varunaggarwala01@gmail.com
 #  github: 
  
 ---
