@@ -2,7 +2,6 @@
 
 name: Louise Wang
 image: images/team/default.jpg
-description: MD Post-doctoral Researcher
 role: postdoc
 group: alum
 aliases:
