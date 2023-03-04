@@ -2,7 +2,6 @@
 
 name: Varun Aggarwala
 image: images/team/default.jpg
-description: PhD Student (GCB)
 role: phd
 group: alum
 aliases:
