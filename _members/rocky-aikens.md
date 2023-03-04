@@ -1,7 +1,7 @@
 ---
 
 name: Rocky Aikens
-image: images/team/default.jpg
+image: images/team/rocky-aikens.jpg
 description: Undergraduate (Swarthmore)
 role: undergrad
 group: alum
