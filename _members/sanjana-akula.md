@@ -2,7 +2,6 @@
 
 name: Sanjana Akula
 image: images/team/default.jpg
-description: Undergraduate (SAS)
 role: undergrad
 group: alum
 aliases:
