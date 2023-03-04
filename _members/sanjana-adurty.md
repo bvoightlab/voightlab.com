@@ -2,7 +2,6 @@
 
 name: Sanjana Adurty
 image: images/team/default.jpg
-description: Undergraduate (SAS)
 role: undergrad
 group: alum
 aliases:
