@@ -1,16 +1,15 @@
 ---
 
-name: Kimberly Lorenz
+name: Zhuoran Ding
 image: images/team/default.jpg
-description: Bioinformatician
-role: programmer
-group: member
+description: Masters Student (GGEB)
+role: masters
+group: alum
 aliases:
-  - Kim Lorenz
-  - Kimberly Lorenz
+  - Zhuoran Ding
 links:
 #  orcid: 0000-0002-9617-4624
-  email: lorenzk@pennmedicine.upenn.edu
+  email: dingzh@pennmedicine.upenn.edu
 #  github: 
  
 ---
