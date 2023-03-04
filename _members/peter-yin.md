@@ -1,7 +1,7 @@
 ---
 
 name: Peter Yin
-image: images/team/default.jpg
+image: images/team/peter-yin.jfif
 description: Undergraduate (SAS)
 role: undergrad
 group: alum
