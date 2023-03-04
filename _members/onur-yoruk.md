@@ -2,7 +2,6 @@
 
 name: Onur Yörük
 image: images/team/default.jpg
-description: Masters Student (GCB)
 role: masters
 group: alum
 aliases:
