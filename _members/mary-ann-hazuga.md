@@ -1,7 +1,7 @@
 ---
 
 name: Mary Ann Hazuga
-image: images/team/default.jpg
+image: images/team/mary-ann-hazuga.jpg
 description: PhD Student (GCB)
 role: phd
 group: member
