@@ -1,7 +1,7 @@
 ---
 
 name: Kimberly Lorenz
-image: images/team/default.jpg
+image: images/team/kim-lorenz.jpg
 description: Bioinformatician
 role: bioinformatician
 group: member
