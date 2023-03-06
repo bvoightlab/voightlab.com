@@ -30,7 +30,7 @@ redirect_from:
 
 Our former lab members who have moved on to new places and activities!  
 
-{% include list.html data="members" component="portrait" filters="role: bioinformatician, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: bioinformatician, group: alum" style="small %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
